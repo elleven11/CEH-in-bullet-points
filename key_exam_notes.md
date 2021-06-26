@@ -84,3 +84,12 @@
 - Entire packet is encrypted and authenticated.
 - Compatible with NAT
 - 📝 Used to create virtual private networks between different networks.
+
+### Diffie-Hellman groups
+
+- Diffie-Hellman group 1—768 bit 
+- Diffie-Hellman group 2 —1024 bit 
+- Diffie-Hellman group 5—1536 bit 
+- Diffie-Hellman group 14—2048 bit 
+- Diffie-Hellman group 19—256 bit elliptic curve
+- Diffie-Hellman group 20—384 bit elliptic curve
